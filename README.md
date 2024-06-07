@@ -1,3 +1,6 @@
+## Devpost
+https://devpost.com/software/atlasexplore?ref_content=my-projects-tab&ref_feature=my_projects
+
 ## Inspiration
 
 When the COVID-19 pandemic hit, people across the world suddenly began to spend an unprecedented amount of time online partaking in niche communities. As travel became less frequent, anxiety and loneliness increased by 25.3% (UNC Chapel Hill). Also, due to the advent of short-form video platforms like TikTok, there was a significant decrease in attention span and working memory (Forbes-Statista).
