@@ -8,6 +8,7 @@ When the COVID-19 pandemic hit, people across the world suddenly began to spend 
 Additionally, platforms such as Google Earth and Street View are notably popular among people who want but are unable to explore the world, and organizations like zoos and museums have an interest in hosting live streams of their little corner of the world.
 
 However, there isn’t a cohesive, extensive site that combines all of these elements — which is where NetCam comes in. 
+
 ![image](https://github.com/SidharthBhatt/netcam/assets/81537231/6cf107ab-d995-4310-865b-b45e0185be65)
 
 
@@ -16,9 +17,11 @@ However, there isn’t a cohesive, extensive site that combines all of these ele
 NetCam is a social media and entertainment platform that allows people to view cameras from around the globe, and also to create and register their own livestreams. NetCam’s wide database of locations range from famous landmarks to small side-streets, and can be easily added to by users themselves. Furthermore, users will be able to vote on livestreams, access recommendations, and share their favorite cameras with others. This fosters an increasingly interconnected world with an appreciation for the smaller things in life. 
 
 ![image](https://github.com/SidharthBhatt/netcam/assets/81537231/12ee3a2e-bd80-47ec-9aea-a071213b4ea6)
+
 ## How we built it
 
 This web app was built primarily using React.js, along with HTML and CSS. The backend was developed with Java and Selenium webdrivers, Python for webscraping automation, and Pandas for csv-data parsing and analysis. The hardware portion is powered by a Raspberry Pi and a webcam. It uses OpenCV to capture video and ngrok is used to make it a livestream. 
+
 ![image](https://github.com/SidharthBhatt/netcam/assets/81537231/7c22cfcc-412b-472f-82b9-7d64b742ad17)
 
 ## Challenges we ran into
@@ -36,6 +39,7 @@ This web app was built primarily using React.js, along with HTML and CSS. The ba
 ## Accomplishments that we're proud of
 
 We’re especially proud of the interactive and rotatable model Earth on our homepage, with an attractive and realistic UI to go along with it.
+
 ![image](https://github.com/SidharthBhatt/netcam/assets/81537231/e9ed422e-0a3c-469c-b8b3-8e008c8ffe64)
 
 ## What we learned
