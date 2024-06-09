@@ -1,12 +1,6 @@
 ## Devpost
 https://devpost.com/software/atlasexplore?ref_content=my-projects-tab&ref_feature=my_projects
 
-## Images
-
-
-
-
-
 ## Inspiration
 
 When the COVID-19 pandemic hit, people across the world suddenly began to spend an unprecedented amount of time online partaking in niche communities. As travel became less frequent, anxiety and loneliness increased by 25.3% (UNC Chapel Hill). Also, due to the advent of short-form video platforms like TikTok, there was a significant decrease in attention span and working memory (Forbes-Statista).
@@ -14,11 +8,13 @@ When the COVID-19 pandemic hit, people across the world suddenly began to spend 
 Additionally, platforms such as Google Earth and Street View are notably popular among people who want but are unable to explore the world, and organizations like zoos and museums have an interest in hosting live streams of their little corner of the world.
 
 However, there isn’t a cohesive, extensive site that combines all of these elements — which is where NetCam comes in. 
+![image](https://github.com/SidharthBhatt/netcam/assets/81537231/6cf107ab-d995-4310-865b-b45e0185be65)
+
 
 ## What it does
 
 NetCam is a social media and entertainment platform that allows people to view cameras from around the globe, and also to create and register their own livestreams. NetCam’s wide database of locations range from famous landmarks to small side-streets, and can be easily added to by users themselves. Furthermore, users will be able to vote on livestreams, access recommendations, and share their favorite cameras with others. This fosters an increasingly interconnected world with an appreciation for the smaller things in life. 
-![image](https://github.com/SidharthBhatt/netcam/assets/81537231/6cf107ab-d995-4310-865b-b45e0185be65)
+
 ![image](https://github.com/SidharthBhatt/netcam/assets/81537231/12ee3a2e-bd80-47ec-9aea-a071213b4ea6)
 ## How we built it
 
