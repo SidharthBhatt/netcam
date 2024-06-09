@@ -36,3 +36,11 @@ Some members learned the basics of front-end design with React.js. We also revis
 ## What's next for NetCam
 
 We can’t wait to introduce even more cameras that provide unique views of the world. We also want to improve the social media aspect of our product, allowing people to follow certain users, save cams, comment, and so on. We would also like increased support for different languages, allowing even more people to use our product easily. Finally, we would also like to integrate the remote control of cameras instead of static view through a feed. 
+
+## Images
+![image](https://github.com/SidharthBhatt/netcam/assets/81537231/6cf107ab-d995-4310-865b-b45e0185be65)
+![image](https://github.com/SidharthBhatt/netcam/assets/81537231/12ee3a2e-bd80-47ec-9aea-a071213b4ea6)
+![image](https://github.com/SidharthBhatt/netcam/assets/81537231/7c22cfcc-412b-472f-82b9-7d64b742ad17)
+![image](https://github.com/SidharthBhatt/netcam/assets/81537231/b6634672-815b-4a3f-9b4e-24b07e5e01cf)
+![image](https://github.com/SidharthBhatt/netcam/assets/81537231/e9ed422e-0a3c-469c-b8b3-8e008c8ffe64)
+
